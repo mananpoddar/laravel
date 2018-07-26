@@ -5,4 +5,5 @@ Install various packages and dependencies: composer install<br><br>
 Run migrations then seed the database:<br><br>
 php artisan migrate<br><br>
 php artisan db:seed<br><br>
-Generate an encryption key for the app:<br> php artisan key:generate.
+Generate an encryption key for the app:<br> php artisan key:generate.<br><br>
+and you are ready to go!
