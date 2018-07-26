@@ -6,4 +6,5 @@ Run migrations then seed the database:<br><br>
 php artisan migrate<br><br>
 php artisan db:seed<br><br>
 Generate an encryption key for the app:<br> php artisan key:generate.<br><br>
-and you are ready to go!
+and you are ready to go!<br>
+use username: manan poddar   and password:theory for login
