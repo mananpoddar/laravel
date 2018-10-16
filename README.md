@@ -1,3 +1,5 @@
+coded for straight 12 hours having no idea what exactly i was doing , laravel was horrible .
+
 <div style="font-size:3em;">Installation instructions:<br><br></div>
 Clone the repo via this url github.com:mananpoddar/laravel.git<br><br>
 Create a .env file by running the following command cp .env.example .env<br><br>
